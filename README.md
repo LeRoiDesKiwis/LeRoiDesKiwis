@@ -4,4 +4,4 @@ I'm a student of computer science and I'm currently learning C and Java (in whic
 
 My favourite language : Java ☕
 
-:brain: I use [Obsidian](https://obsidian.md) to organize my personal knowledge and my life.
+:brain: I use [Obsidian](https://obsidian.md) to organize my personal knowledge and (partially) my life.
